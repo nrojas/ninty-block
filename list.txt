@@ -6,6 +6,7 @@
 127.0.0.1 nintendo.co.uk
 127.0.0.1 nintendo-europe.com
 127.0.0.1 nintendowifi.net
+127.0.0.1 nintendowifi.com
 127.0.0.1 nintendo.es
 127.0.0.1 nintendo.co.kr
 127.0.0.1 nintendo.tw
