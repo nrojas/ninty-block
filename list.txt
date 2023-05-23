@@ -1,6 +1,6 @@
 # 90DNS
-192.168.90.5 conntest.nintendowifi.net
-192.168.90.5 ctest.cdn.nintendo.net
+# 192.168.90.5 conntest.nintendowifi.net
+# 192.168.90.5 ctest.cdn.nintendo.net
 127.0.0.1 nintendo.com
 127.0.0.1 nintendo.net
 127.0.0.1 nintendo.jp
