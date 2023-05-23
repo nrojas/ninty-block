@@ -34,7 +34,5 @@
 127.0.0.1 nintendoswitch.com
 127.0.0.1 nintendoswitch.com.cn
 127.0.0.1 nintendoswitch.cn
-#95.216.149.205 conntest.nintendowifi.net
-#95.216.149.205 ctest.cdn.nintendo.net
 192.168.90.5 conntest.nintendowifi.net
 192.168.90.5 ctest.cdn.nintendo.net
